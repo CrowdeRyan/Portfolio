@@ -79,7 +79,7 @@ body {
 }
 
 .bg {
-  background-image: url("Image/techback.jpg");
+  background-image: url("Images/techback.jpg");
   filter: blur(8px);
   height: 300px;
   background-position: center;
