@@ -3,7 +3,7 @@
 Link to Website: https://crowderyan.github.io/Portfolio/
 
 1. Basic Wireframe of intended site:
-   ![wireframe](./image/readme/hw2-wireframe.png)
+   ![wireframe](./images/readme/hw2-wireframe.png)
 
 2. Responsive Sections:
 
