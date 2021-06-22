@@ -157,7 +157,7 @@ body {
 }
 
 .box a {
-  color: var(--light);
+  color: var(--primary);
 }
 
 #app1,
@@ -167,7 +167,7 @@ body {
 }
 
 .box:hover {
-  background: white;
+  background: var(--shadow);
 }
 
 .box a:hover {
